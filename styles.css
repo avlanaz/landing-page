@@ -1,0 +1,23 @@
+* {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #1f2937;
+    color: white;
+}
+
+.top-content .bottom-content{
+    background-color: white;
+    color: #1f2937;
+}
+
+button {
+    background-color: #3882f6;
+}
+
+.middle-content {
+    background-color: #e5e7eb;
+    color: #1f2937;
+}
+
